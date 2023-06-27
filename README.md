@@ -1,4 +1,4 @@
-# content-dev
+# Creator Handbook
 
 Documentation for best practices when developing content for Second Life
 
