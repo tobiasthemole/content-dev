@@ -1,4 +1,4 @@
-## Glossary Terms
+## GLOSSARY TERMS
 
 **Prim**
  - Refers to Primitive which is the most basic building block of the Second Life experience engine
@@ -25,6 +25,11 @@
 **Image Based Lighting (IBL) via Reflections and Probes.**
  - IBL will allow the colors from one object to appear on another via reflection.
  - Light can bounce and scatter lighting up areas or darkening others.
+
+**EEP refers to the Dynamic Skies system of the Second Life experience engine.**
+- The dynamic skies system will allow HDRI import in the near future
+- The Name EEP referred to a project called the Enhanced Environment Project.
+- Skies in SL are still called EEPs due to this historical naming convention
 
 **High Dynamic Range (HDR) is now present in Second Life EEP lighting**
  - HDR allows bright things to appear bright and very dark things to appear even darker.
