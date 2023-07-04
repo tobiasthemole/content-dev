@@ -18,8 +18,8 @@
  - It includes the formats .glb and .gltf
  - .glb is the file container format for glTF. It bundles all materials into a single file
 
-**Advanced Lighting Model (ALM) is going away**
- - Now there will be unity between graphics settings and clients.
+**Advanced Lighting Model (ALM) is the soon to be deprecated lighting system**
+ - The removal of multiple renderers will create unity between graphics settings and clients.
  - What you see is what you get from Low to High graphics settings.
 
 **Image Based Lighting (IBL) via Reflections and Probes.**
