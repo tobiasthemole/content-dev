@@ -11,7 +11,7 @@ Below is a comparison shot between these two new features on and with them off:
 
 **HDR/TONEMAPPING ON**
 
-![Screenshot of an image of HDR in Second Life on.](assets/Educational Graphics/Second Life HDR On.png)
+![Screenshot of an image of HDR in Second Life on.](/assets/Educational Graphics/Second Life HDR On.png)
 
 **HDR/TONEMAPPING OFF**
 
