@@ -16,8 +16,7 @@
  - It has been described as the JPEG of 3D formats
  - It will soon be Second Life’s 3D format starting with Materials
  - It includes the formats .glb and .gltf
-
-**.glb is the file container format for glTF. It bundles all materials into a single file.**
+ - .glb is the file container format for glTF. It bundles all materials into a single file
 
 **Advanced Lighting Model (ALM) is going away**
  - Now there will be unity between graphics settings and clients.
