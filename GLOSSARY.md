@@ -4,6 +4,10 @@
  - Refers to **Primitive** which is the most basic building block of the Second Life experience engine
  - Also describes the 3D primitive shapes which users can assign textures, materials, LSL code, and inventory objects to be contained within.
 
+**Avatar**
+ - The Avatar stand in for a user in Second Life
+ - Avatars are the way users interact with the Second Life world
+
 **LSL** is the Linden Scripting Language**
  - **LSL** assigns behavior to Second Life Primitives, Objects, and Avatars
 
