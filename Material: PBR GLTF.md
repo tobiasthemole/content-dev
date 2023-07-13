@@ -5,7 +5,7 @@ It is also most importantly an **Object**. This object contains the textures and
 
 **PBR uses the ORM format (Occlusion, Roughness, Metallic)**
 
-//insert graphic here
+![RGB_ORM](https://github.com/tobiasthemole/content-dev/assets/137837207/194b4b48-88c5-463b-83d6-efe1a111e6df)
 
 **Base Color** (aka **Albedo**)
 This is your base color texture.
@@ -37,7 +37,7 @@ It is set to Off by default to avoid unneeded render cost
 
 **Mapping / Tiling options for PBR**
 
-//insert picture here
+<img width="955" alt="glTF_TextureAlignment_Manipulation" src="https://github.com/tobiasthemole/content-dev/assets/137837207/2e1a8308-6b56-401c-8cc2-7819d8aa5335">
 
 **Texture alignment** is controlled by the Mapping coordinate entries on each bubble tick slot
 
