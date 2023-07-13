@@ -34,3 +34,24 @@ This map is normally blue and purple coloured. It will give your mesh height and
 **Double Sided** (Tickbox at top of Material window)
 You do not need to duplicate mesh and flip normals to get backfaces
 It is set to Off by default to avoid unneeded render cost
+
+**Mapping / Tiling options for PBR**
+
+//insert picture here
+
+**Texture alignment** is controlled by the Mapping coordinate entries on each bubble tick slot
+
+**Mapping** controls the type or style of mapping for the selected faces by parent face
+Controlled by activating the pulldown tab and selecting between Planar or Default
+**Planar** aligns selected faces planarly by parent object to grid plane by pressing **Align**
+Best with **Prims** or mostly grid facing meshes made with flat UV projection
+
+**Scale u** Controls scale in the horizontal from side to side from -X to +X on a UV grid
+
+**Scale v** Controls scale up and down from -Y to +Y on a UV grid
+
+**Rotation** from the origin of the UV coordinates (0, 0) which corresponds to the upper left corner of a texture image per Khronos GLTF Specification
+
+**Offset u** Controls **Offset** from side to side from -X to +X on a UV grid
+
+**Offset v** Controls **Offset** up and down from -X to +X on a UV grid
