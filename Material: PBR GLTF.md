@@ -5,7 +5,7 @@ It is also most importantly an **Object**. This object contains the textures and
 
 **PBR uses the ORM format (Occlusion, Roughness, Metallic)**
 
-Insert graphic here
+//insert graphic here
 
 **Base Color** (aka **Albedo**)
 This is your base color texture.
