@@ -1,18 +1,20 @@
 # Material: Alpha Types
 
-There are two kinds of **Alpha types** in Second Life and one default state:
+There are three stages of **Alpha** in Second Life. They are **Opaque**, **Alpha Blended**, and **Alpha Masked**.
 
 **Opaque** (aka **None**)
-This is a texture’s default state without Alpha.
-Photoshop and Substance may export alpha layers. Only do this on purpose.
+- This is a texture’s default state without Alpha.
+- Photoshop and Substance may export alpha layers. Only do this on purpose.
+  
 **Alpha Blending**
-**Alpha Blending** is reserved for things you must see through and nothing else.
-Suffers from **Alpha Sorting** issues that are common to almost all 3D graphics engines
-Most of the time creators should not use this as it causes CPU/GPU slowdown.
+- **Alpha Blending** is reserved for things you must see through and nothing else.
+- Suffers from **Alpha Sorting** issues that are common to almost all 3D graphics engines
+- Most of the time creators should not use this as it causes CPU/GPU slowdown.
+  
 **Alpha Masking**
-**Alpha Masking** is the preferred method for doing anything that must feature alpha.
-The strength of the **Alpha Masking** effect is modulated via the number box 
-It is more efficient than Alpha Blending and suffers from no **Alpha Sorting** distortions
+- **Alpha Masking** is the preferred method for doing anything that must feature alpha.
+- The strength of the **Alpha Masking** effect is modulated via the number box 
+- It is more efficient than Alpha Blending and suffers from no **Alpha Sorting** distortions
 
 ## **Alpha for Blinn-Phong Dropdown**
 
