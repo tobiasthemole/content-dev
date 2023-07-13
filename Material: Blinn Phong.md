@@ -32,7 +32,7 @@
 
 <img width="955" alt="Blinn-Phong_TextureAlignment_Manipulation" src="https://github.com/tobiasthemole/content-dev/assets/137837207/16638e47-a715-43cd-9de1-860ce96e70dc">
 
-**Texture alignment** for all the material slots is controlled separately by 3 bubble switches or locked together by the Lock repeats checkbox
+**Texture alignment** for all the material slots is controlled separately by 3 bubble switches or locked together by the **Lock repeats** checkbox
 
 **Mapping** controls the type or style of mapping for the selected faces by parent face
 - Controlled by activating the pulldown tab and selecting between Planar or Default
