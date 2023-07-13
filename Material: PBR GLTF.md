@@ -3,7 +3,8 @@
 **PBR-glTF** (**PBR**) is the new material of the two.
 It is also most importantly an **Object**. This object contains the textures and associated metadata. All textures are compressed, however the normal map uses “lossless” compression to avoid artifacting. Slots are seen as below:
 
-**Uploading the material as a GLB/GLTF file via the Material Upload options tab is recommended. Placing individual PBR-glTF textures into Blinn-Phong material slots will result in compression as this is hardcoded in Second Life for that format and is not an intended content authoring workflow.**
+**Uploading the material as a GLB/GLTF file via the Material Upload options tab is recommended.  
+Placing individual PBR textures into Blinn-Phong material slots will result in compression as this is hardcoded in Second Life for that format and only glTF is exempt from this rule in any form.**
 
 ## **PBR uses the ORM format (Occlusion, Roughness, Metallic)**
 
