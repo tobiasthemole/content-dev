@@ -16,11 +16,11 @@ There are three stages of **Alpha** in Second Life. They are **Opaque**, **Alpha
 - The strength of the **Alpha Masking** effect is modulated via the number box 
 - It is more efficient than Alpha Blending and suffers from no **Alpha Sorting** distortions
 
-## **Alpha for Blinn-Phong Dropdown**
+ ## **Alpha for Blinn-Phong Dropdown**
 
 ![Blinn-Phong_AlphaModes](https://github.com/tobiasthemole/content-dev/assets/137837207/9a4d4fb0-c0da-4a6d-9475-1ecdbadd7532)
 
-**Alpha Mask Cutoff Number Box for Blinn-Phong**
+## **Alpha Mask Cutoff Number Box for Blinn-Phong**
 
 ![Blinn-Phong_Alpha_Masking](https://github.com/tobiasthemole/content-dev/assets/137837207/8771af91-c9e8-4617-b84b-fe296d95cbbe)
 
