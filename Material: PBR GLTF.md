@@ -1,3 +1,5 @@
+# Material: PBR GLTF
+
 **PBR-glTF** (**PBR**) is the new material of the two.
 It is also most importantly an **Object**. This object contains the textures and associated metadata. All textures are compressed, however the normal map uses “lossless” compression to avoid artifacting. Slots are seen as below:
 
