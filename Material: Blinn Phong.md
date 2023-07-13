@@ -1,8 +1,8 @@
 # Material: Blinn-Phong
 
-**Blinn-Phong** for the Specular Glossiness workflow (SpecGloss) is the older of Second Life's two material types. 
+ **Blinn-Phong** for the Specular Glossiness workflow (SpecGloss) is the older of Second Life's two material types. 
 
-It has has 3 texture slots:
+## **Blinn-Phong** for Second Life has has 3 texture slots:
 
 **Diffuse** (aka **DIFF**)
 
@@ -30,7 +30,7 @@ Environmental Intensity (more Glossy) in its **Alpha Channel**
 
 **Color** tells the object what color to make the Glossy highlighting
 
-**Mapping / Tiling options for Blinn-Phong**
+## **Mapping / Tiling options for Blinn-Phong**
 
 <img width="955" alt="Blinn-Phong_TextureAlignment_Manipulation" src="https://github.com/tobiasthemole/content-dev/assets/137837207/16638e47-a715-43cd-9de1-860ce96e70dc">
 
