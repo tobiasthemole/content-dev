@@ -4,7 +4,7 @@
 
 It is also most importantly an **Object**. This object contains the textures and associated metadata. All textures are compressed, however the normal map uses “lossless” compression to avoid artifacting. Slots are seen as below:
 
-**Uploading materials as GLB/GLTF files via the Material Upload options tab is recommended over individually uploading textures in-world.  
+**Uploading materials as .glb/.glTF files via the Material Upload options tab is recommended over individually uploading textures in-world.  
 Placing individual PBR textures into Blinn-Phong material slots expecting the same quality as PBR-glTF will result in compression as this is hardcoded in Second Life for that format and only glTF is exempt from this rule in any form.**
 
 ## **PBR uses the ORM format (Occlusion, Roughness, Metallic)**
