@@ -1,6 +1,6 @@
 # Material: Alpha Types
 
-There are three states of **Alpha** in Second Life. They are **Opaque**, **Alpha Blended**, and **Alpha Masked**.
+There are three types of **Alpha** in Second Life. They are **Opaque**, **Alpha Blended**, and **Alpha Masked**.
 
 **Opaque** (aka **None**)
 - This is a texture’s default state without Alpha.
