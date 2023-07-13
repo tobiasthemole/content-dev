@@ -1,0 +1,36 @@
+**PBR-glTF** (**PBR**) is the new material of the two.
+It is also most importantly an **Object**. This object contains the textures and associated metadata. All textures are compressed, however the normal map uses “lossless” compression to avoid artifacting. Slots are seen as below:
+
+**Textures uploaded individually and placed in these slots will not benefit from being uncompressed. You have to upload the PBR texture as a GLB/GLTF file via the Material Upload options tab. If you attempt to place PBR glTF material textures into the Blinn-Phong Material they will be compressed as this is hardcoded in Second Life for that material format.**
+
+**PBR uses the ORM format (Occlusion, Roughness, Metallic)**
+
+Insert graphic here
+
+**Base Color** (aka **Albedo**)
+This is your base color texture.
+Includes a **Tint** selection box for color that opens a colorpicker
+**Transparency** box with values from 0 to 1
+Alpha mode with Selection box (**Opaque, Blend, Mask**)
+Albedo is a texture with no lighting information in it.
+Baking lighting into Albedo will result in undesirable lighting on your object.
+
+**Ambient Occlusion, Roughness, Metalness** (aka **ORM**)
+**Ambient Occlusion** is soft shadows
+**Roughness** is how Rough something is
+**Metalness** is how shiny or reflective something is (based on metals)
+
+**Emission**
+**Emission** emits light from a surface
+You can tint it a color (either via the tint selection box, or color data in the emission texture)
+Previously only existed in TARGA files, not in PNG or JPEG
+
+**Normal**
+It is an **OpenGL (Y+)** Normal format
+This map is normally blue and purple coloured. It will give your mesh height and depth.
+
+**Fine Tuning**
+**Roughness** and **Metalness** can be modulated via the number boxes from 0 to 1
+**Double Sided** (Tickbox at top of Material window)
+You do not need to duplicate mesh and flip normals to get backfaces
+It is set to Off by default to avoid unneeded render cost
