@@ -5,7 +5,7 @@ It is also most importantly an **Object**. This object contains the textures and
 
 **Textures uploaded individually and placed in these slots will not benefit from being uncompressed. You have to upload the PBR texture as a GLB/GLTF file via the Material Upload options tab. If you attempt to place PBR glTF material textures into the Blinn-Phong Material they will be compressed as this is hardcoded in Second Life for that material format.**
 
-**PBR uses the ORM format (Occlusion, Roughness, Metallic)**
+## **PBR uses the ORM format (Occlusion, Roughness, Metallic)**
 
 ![RGB_ORM](https://github.com/tobiasthemole/content-dev/assets/137837207/194b4b48-88c5-463b-83d6-efe1a111e6df)
 
@@ -37,7 +37,7 @@ This map is normally blue and purple coloured. It will give your mesh height and
 You do not need to duplicate mesh and flip normals to get backfaces
 It is set to Off by default to avoid unneeded render cost
 
-**Mapping / Tiling options for PBR**
+## **Mapping / Tiling options for PBR**
 
 <img width="955" alt="glTF_TextureAlignment_Manipulation" src="https://github.com/tobiasthemole/content-dev/assets/137837207/2e1a8308-6b56-401c-8cc2-7819d8aa5335">
 
