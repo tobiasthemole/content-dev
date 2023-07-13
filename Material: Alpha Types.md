@@ -1,3 +1,5 @@
+# Material: Alpha Types
+
 There are two kinds of **Alpha types** in Second Life and one default state:
 
 **Opaque** (aka **None**)
