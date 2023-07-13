@@ -1,4 +1,4 @@
-# Material: Blinn Phong.md
+# Material: Blinn Phong
 
 **Blinn-Phong** for the Specular Glossiness workflow (SpecGloss) is the older of Second Life's two material types.
 
