@@ -1,6 +1,4 @@
-There are two kinds of Materials in Second Life: Blinn-Phong and PBR glTF.
-
-**Blinn-Phong** for the Specular Glossiness workflow (SpecGloss) is the older of the two and the one we are all most familiar with here in Second Life.
+**Blinn-Phong** for the Specular Glossiness workflow (SpecGloss) is the older of Second Life's two material types.
 It has 3 slots:
 
 Texture Slots
@@ -21,7 +19,7 @@ Environmental Intensity (more Glossy) in its **Alpha Channel**
 
 **Specularity Options** for Blinn-Phong
 
-//insert Picture here
+![Blinn-Phong_SpecularGlossy_Options](https://github.com/tobiasthemole/content-dev/assets/137837207/0658a9c9-50ff-4f17-a8e9-8bc507079075)
 
 **Specularity** (Shininess) can be manipulated with 3 tabs:
 
@@ -33,7 +31,7 @@ Environmental Intensity (more Glossy) in its **Alpha Channel**
 
 **Mapping / Tiling options for Blinn-Phong**
 
-//insert image here
+<img width="955" alt="Blinn-Phong_TextureAlignment_Manipulation" src="https://github.com/tobiasthemole/content-dev/assets/137837207/16638e47-a715-43cd-9de1-860ce96e70dc">
 
 **Texture alignment** for all the material slots is controlled separately by 3 bubble switches or locked together by the Lock repeats checkbox
 
