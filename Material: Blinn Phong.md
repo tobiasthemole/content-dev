@@ -1,7 +1,6 @@
 **Blinn-Phong** for the Specular Glossiness workflow (SpecGloss) is the older of Second Life's two material types.
-It has 3 slots:
 
-Texture Slots
+**Blinn-Phong** for Second Life has has 3 texture slots:
 
 **Diffuse** (aka **DIFF**)
 
